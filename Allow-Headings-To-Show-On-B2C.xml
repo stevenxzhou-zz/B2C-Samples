@@ -1,5 +1,6 @@
 
 <!-- Note: This only works in versions >= 2.1.1 for selfasserted, unifiedssp, multifactor pages. -->
+<!-- https://docs.microsoft.com/en-us/azure/active-directory-b2c/page-layout -->
 <ContentDefinition Id="api.signuporsignin">
     <LoadUri>~/tenant/templates/AzureBlue/unified.cshtml</LoadUri>
     <DataUri>urn:com:microsoft:aad:b2c:elements:contract:unifiedssp:2.1.2</DataUri>
